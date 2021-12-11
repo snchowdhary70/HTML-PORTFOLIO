@@ -1,0 +1,22 @@
+body {
+  background: #daddfc;
+  color: #222;
+}
+
+h1 {
+  color: #2e4c6d;
+}
+
+h3 {
+  color: #396eb0;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted gray;
+  width: 5%;
+}
+
+a {
+  color: rgb(85, 26, 139);
+}
